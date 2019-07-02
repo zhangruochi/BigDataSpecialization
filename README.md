@@ -36,43 +36,79 @@ Hardware Requirements:
 Software Requirements:
 This course relies on several open-source software tools, including Apache Hadoop. All required software can be downloaded and installed free of charge. Software requirements include: Windows 7+, Mac OS X 10.10+, Ubuntu 14.04+ or CentOS 6+ VirtualBox 5+.
 
-## Resources
+# Resources
 - [Course Resouces](./resources)
 
-## My Course Notes
+# My Course One Notes
 
 
-### Week1
-- Overview
-    - Why and Where
-    - Where Does It Come From?
-- [Note](./week1/README.md)
-- [Slides](./week1/slides)
-- [Projects](./week1/projects)
-- [Attachments](./week1/attachments)
+## Overview
+
+1. What started the big data era
+2. Three main big data sources
+3. How to get value from big data
+4. Big data's characteristics
+5. 5 steps to process to gain value from big data 
+6. The main elements of the Hadoop stack
 
 
-### Week2
-- Overview
-    - A “Small” Definition of Big Data
-    - 
-- [Note](./week2/README.md)
-- [Slides](./week2/slides)
-- [Projects](./week2/projects)
-- [Attachments](./week2/attachments)
+## What started the big data era
+
+**Data Torrent + Computing(Anytime and Anywhere)**
+
+## Three main big data sources
+
+- Machines
+- People
+- Origanization
+
+## How to get value from big data
+
+Value come from integrating different types of data sources
+
+### Data intergation
+
+1. Reduce data complexity
+2. Increase data availability
+3. Unify your data system
+
+## Big data's characteristics
+
+1. Volume (Size)
+2. Varity (Complexity)
+3. Valence (Connectedness)
+4. Veracity (Quality)
+5. Velocity (Speed)
 
 
-### Week3
-- Overview
-- [Note](./week3/README.md)
-- [Slides](./week3/slides)
-- [Projects](./week3/projects)
-- [Attachments](./week3/attachments)
+## 5 steps to process to gain value from big data 
 
+1. Acquire
+- Indentify data sets
+- Retrieve data
+- Query data
+2. Prepare
+Explore data 
+- Understand the nature of data 
+- Preliminary analysis
+Pre-process Data
+- clean
+- Integrate
+- Package
+3. Analyze
+- Select analytical techiques
+- Build models
+4. Report
+- Communicate results
+5. Act
+- Apply results
 
-### Week4
-- Overview
-- [Note](./week4/README.md)
-- [Slides](./week4/slides)
-- [Projects](./week4/projects)
-- [Attachments](./week4/attachments)
+## The main elements of the Hadoop stack
+
+![](images/1.png)
+
+1. Enable Scalability
+2. Handle Fault Tolerance
+3. Optimized for a Variety Data Types
+4. Facilitate a Shared Environnment
+5. Provide Value
