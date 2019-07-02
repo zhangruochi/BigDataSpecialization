@@ -44,6 +44,8 @@ This course relies on several open-source software tools, including Apache Hadoo
 
 ### Week1
 - Overview
+    - Why and Where
+    - Where Does It Come From?
 - [Note](./week1/README.md)
 - [Slides](./week1/slides)
 - [Projects](./week1/projects)
@@ -52,6 +54,8 @@ This course relies on several open-source software tools, including Apache Hadoo
 
 ### Week2
 - Overview
+    - A “Small” Definition of Big Data
+    - 
 - [Note](./week2/README.md)
 - [Slides](./week2/slides)
 - [Projects](./week2/projects)
